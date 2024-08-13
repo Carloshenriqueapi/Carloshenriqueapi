@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
-![Snake animation](https://github.com/Carloshenriqueapi/Carloshenriqueapi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Carloshenriqueapi/blob/output/github-contribution-grid-snake.svg)
 
 
 
