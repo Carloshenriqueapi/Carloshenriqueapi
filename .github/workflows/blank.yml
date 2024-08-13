@@ -6,6 +6,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # Permissão para fazer push de alterações
+
 jobs:
   build:
     name: Jobs to update datas
@@ -20,7 +23,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.2.0  # Atualizado para a versão mais recente
+        uses: crazy-max/ghaction-github-pages@v2.2.0
         with:
           target_branch: output
           build_dir: dist
