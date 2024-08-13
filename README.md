@@ -34,9 +34,8 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/Carloshenriqueapi/Carloshenriqueapi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Carloshenriqueapi/output/github-contribution-grid-snake.svg)
 
-[!readme](https://github-readme-stats.vercel.app/api/pin/?username=Carloshenriqueapi&repo=carloshenriqueapi&theme=react)](https://github.com/Carloshenriqueapi/Carloshenriqueapi)
 
 
 
