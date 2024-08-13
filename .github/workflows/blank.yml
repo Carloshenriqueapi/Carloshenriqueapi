@@ -11,6 +11,9 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # Adiciona a permissão de escrita para o GITHUB_TOKEN
+
     steps:
       # Snake Animation
       - name: Generate Snake Animation
