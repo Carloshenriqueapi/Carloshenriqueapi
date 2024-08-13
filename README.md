@@ -34,7 +34,8 @@
     </a>
 </div>
 
-![Cobrinha](https://raw.githubusercontent.com/Carloshenriqueapi/Carloshenriqueapi/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Carloshenriqueapi/Carloshenriqueapi/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
